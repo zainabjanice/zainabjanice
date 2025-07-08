@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/35/a2/e4/35a2e40650d216c55c94a4e181bd28b4.jpg)
+![MasterHead](https://i.pinimg.com/736x/02/8b/d8/028bd8f7a235663ac14459987e172f62.jpg)
 <h1 align="center">Hi 👋, I'm Zainab Jamil</h1>
 <h3 align="center">AI Engineer in the Making | Passionate about Real-World Innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/QLh0PhunTj8AAAAd/anime-typing.gif">
