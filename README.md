@@ -16,28 +16,43 @@
 <a href="https://www.linkedin.com/in/zainab-jamil-50223a247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zainab-jamil-50223a247/" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Arduino&logo=arduino&label=&color=00979D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="arduino logo" />
-  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="docker logo" />
-  <img src="https://img.shields.io/static/v1?message=Elasticsearch&logo=elasticsearch&label=&color=005571&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="elasticsearch logo" />
-  <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="figma logo" />
-  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo" />
-  <img src="https://img.shields.io/static/v1?message=Kibana&logo=kibana&label=&color=005571&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kibana logo" />
-  <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linux logo" />
-  <img src="https://img.shields.io/static/v1?message=MATLAB&logo=mathworks&label=&color=0076A8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matlab logo" />
-  <img src="https://img.shields.io/static/v1?message=OpenCV&logo=opencv&label=&color=5C3EE8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="opencv logo" />
-  <img src="https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="pandas logo" />
-  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo" />
-  <img src="https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="pytorch logo" />
-  <img src="https://img.shields.io/static/v1?message=Qt&logo=qt&label=&color=41CD52&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="qt logo" />
-  <img src="https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="scikit-learn logo" />
-  <img src="https://img.shields.io/static/v1?message=Seaborn&logo=python&label=&color=4C8CBF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="seaborn logo" />
-  <img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tensorflow logo" />
+  <!-- Programming & Environments -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" height="35" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="SQL" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="35" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VS%20Code-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google&logoColor=white" height="35" alt="Colab" />
+
+  <!-- Data Science & ML -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="35" alt="SciPy" />
+  <img src="https://img.shields.io/badge/NLTK-009E60?style=for-the-badge&logo=python&logoColor=white" height="35" alt="NLTK" />
+
+  <!-- Machine/Deep Learning -->
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="35" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="35" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="35" alt="MATLAB" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="Figma" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="35" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" height="35" alt="Kibana" />
 </div>
-
-
-
 
 
 
