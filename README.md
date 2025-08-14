@@ -5,11 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabjanice&label=Profile%20views&color=0e75b6&style=flat" alt="zainabjanice" /> </p>
 
-- 🌱 I’m interested in  **Astronomy, Bioinformatics, Healthcare Technologies, Aerospace**
+Hello there,
 
-- 📫 How to reach me **jamilzainab91@gmail.com**
+I’m [Zainab](url), I’m endlessly curious and love learning about anything that sparks wonder, from protein design to AI applications in space exploration. My work blends creativity and science, turning curiosity into projects that solve real-world problems.
 
-- ⚡ Fun fact **I am a person with many passions.**
+When I’m not coding, you’ll probably find me stargazing, exploring space medicine research, or picking up new skills just for the thrill of it. I share my learning journey on GitHub and LinkedIn to inspire others to explore AI’s possibilities.
+
+**Fun Facts:**
+
+- I speak multiple languages, and I’m teaching AI to do the same.
+
+- I’m fascinated by the quantum world, from physics to computing.
+
+- My path into AI started with neuroscience, the original inspiration behind my love for intelligent systems.
+
+_Momentum builds with small wins._
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
