@@ -9,9 +9,14 @@ Hello there,
 
 I’m [Zainab](url), I’m endlessly curious and love learning about anything that sparks wonder, from protein design to AI applications in space exploration. My work blends creativity and science, turning curiosity into projects that solve real-world problems.
 
+**Current Focus:**
+- I work on fMRI and Amyloid PET Common Factor analysis, bridging neuroimaging and artificial intelligence to better understand the human brain.
+
 **Fun Facts:**
 
-- I speak multiple languages, and I’m teaching AI to do the same.
+- I entered the International Astronomy and Astrophysics Competition (IAAC) for fun and ranked in the top 25% globally, earning consideration for an Ambassador role.
+  
+- I collaborate with NASA’s Open Science GeneLab to explore the intersection of AI and space medicine.
 
 - I’m fascinated by the quantum world, from physics to computing.
 
