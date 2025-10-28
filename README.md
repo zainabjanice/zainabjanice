@@ -26,6 +26,14 @@ _Momentum builds with small wins._
   <!-- Programming & Environments -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="35" alt="R" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="35" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Reinforcement--Learning-RL-black?style=for-the-badge&logo=reinforcment&logoColor=white" height="35" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/Knowledge--Graph-3FB33F?style=for-the-badge&logo&logoColor=white" height="35" alt="Knowledge Graph" />
+  <img src="https://img.shields.io/badge/fMRIPrep-brain--pipeline-purple?logo=brain&logoColor=white" height="50" alt="fMRIPrep" />
+  <img src="https://img.shields.io/badge/Google_Cloud-Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="35" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vertex_AI-Vertex%20AI-0F9D58?style=for-the-badge&logo=google&logoColor=white" height="35" alt="Vertex AI" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" height="35" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="SQL" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="35" alt="Jupyter" />
