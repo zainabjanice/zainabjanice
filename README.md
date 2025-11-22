@@ -10,8 +10,9 @@ Hello there,
 I’m [Zainab](url), I’m endlessly curious and love learning about anything that sparks wonder, from protein design to AI applications in space exploration. My work blends creativity and science, turning curiosity into projects that solve real-world problems.
 
 **Current Focus:**
-- I work on fMRI and Amyloid PET Common Factor analysis, bridging neuroimaging and artificial intelligence to better understand the human brain.
-
+- Learn Reinforcement Learning
+- Learn GAML
+- AI Astronaut Research, Korean Institute of Astronauts
 **Fun Facts:**
 
 - I entered the International Astronomy and Astrophysics Competition (IAAC) for fun and ranked in the top 25% globally, earning consideration for an Ambassador role.
