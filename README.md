@@ -13,6 +13,7 @@ I’m [Zainab](url), I’m endlessly curious and love learning about anything th
 - Learn Reinforcement Learning
 - Learn GAML
 - AI Astronaut Research, Korean Institute of Astronauts
+  
 **Fun Facts:**
 
 - I entered the International Astronomy and Astrophysics Competition (IAAC) for fun and ranked in the top 25% globally, earning consideration for an Ambassador role.
