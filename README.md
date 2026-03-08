@@ -5,24 +5,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabjanice&label=Profile%20views&color=0e75b6&style=flat" alt="zainabjanice" /> </p>
 
-Hello there,
+Dear gentle visitors,
 
-I’m [Zainab](url), I’m endlessly curious and love learning about anything that sparks wonder, from protein design to AI applications in space exploration. My work blends creativity and science, turning curiosity into projects that solve real-world problems.
+As Zainab is a multipotentialite, she is endlessly curious and loves learning about anything that sparks wonder, from protein design to AI applications in space exploration. Her work blends creativity and science, turning curiosity into projects that solve real-world problems.
 
 **Current Focus:**
-- Learn Reinforcement Learning
-- Learn GAML
+- Physics
 - AI Astronaut Research, Korean Institute of Astronauts
+- Thanks to the second fun fact, now I do my end-of-studies internship in space medicine 😁
   
 **Fun Facts:**
 
 - I entered the International Astronomy and Astrophysics Competition (IAAC) for fun and ranked in the top 25% globally, earning consideration for an Ambassador role.
   
-- I collaborate with NASA’s Open Science GeneLab to explore the intersection of AI and space medicine.
-
-- I’m fascinated by the quantum world, from physics to computing.
-
+- I collaborate with NASA’s Open Science GeneLab to explore the intersection of AI and space medicine
+  
 - My path into AI started with neuroscience, the original inspiration behind my love for intelligent systems.
+  
+- Developed an interest in quantum computing while exploring quantum physics problems
 
 _Momentum builds with small wins._
 
